@@ -8,10 +8,10 @@
 
 |교재|이름|상태(최근제출)|
 |---|---|---|
-|Novice Low / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|Passed()|
-|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|Passed()|
-|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|Passed()|
-|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|Passed()|
+|Novice Low / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|[Passed](231012/five/five.py)|
+|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|[Passed](231012/five/five.py)|
+|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|[Passed](231012/five/five.py)|
+|Novice Low / 출력 / 출력 형식|[[연습] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|[Passed](231012/five/five.py)|
 
 
 ### [[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
