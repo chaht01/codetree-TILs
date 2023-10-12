@@ -48,7 +48,7 @@
 |일반연습|문제은행|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|실버1|`Simulation`|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|
 
 
-## 타이머 기록
+## ⏰ 타이머 기록
 ### [2022 크리스마스 코딩 퀴즈](https://www.codetree.ai/training-field/mock-tests) [(기록 바로가기)](https://www.codetree.ai/training-field/my-records/timer/2707)
 |문제|티어|정답률|상태|랩타임|
 |---|---|---|---|---|
@@ -62,7 +62,7 @@
 |선물 나눠주기(Hard)|플래티넘1|0%|||
 
 
-## 릴레이 기록
+## 🏃 릴레이 기록
 ![현재](https://img.shields.io/badge/현재_릴레이-3-%235cb85c.svg?for-the-badge)
 ![최장](https://img.shields.io/badge/최장_릴레이-10-%23E34F26.svg?for-the-badge)
 ![누적](https://img.shields.io/badge/누적_릴레이-16-%2300599C.svg?for-the-badge)
