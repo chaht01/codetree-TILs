@@ -33,7 +33,7 @@
 |문제|티어|정답률|상태|랩타임|
 |---|---|---|---|---|
 |메리 크리스마스|브론즈5|59%|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|00:00:29|
-|연탄 배달의 시작|브론즈2|45%|||
+|연탄 배달의 시작|브론즈2|45%|[![Failed](https://img.shields.io/badge/Failed-%23D24D57.svg)]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))||
 |연탄의 크기|실버5|35%|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|00:01:26|
 |루돌프 월드컵|실버1|4%|||
 |산타의 텔레포트|골드2|1%|||
