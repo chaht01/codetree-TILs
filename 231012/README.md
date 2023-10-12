@@ -1,7 +1,7 @@
 
 # 📖 학습하기 
 
-## 단계별 학습
+## 📚 단계별 학습
 ### 23년 10월 12일 목표(20px)를 달성했어요 🥳.
 
 ![20xp](https://img.shields.io/badge/EXP-20xp-%235cb85c.svg?for-the-badge)
@@ -19,7 +19,7 @@
 |[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움](https://img.shields.io/badge/쉬움-%235cb85c.svg?for-the-badge)|10xp|[![Failed](https://img.shields.io/badge/Failed-%23D24D57.svg)]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
 
 
-## 기업별 학습
+## 🚀 기업별 학습
 ### 23년 10월 12일 목표(20px)를 달성했어요 🥳.
 
 ![20xp](https://img.shields.io/badge/EXP-20xp-%235cb85c.svg?for-the-badge)
