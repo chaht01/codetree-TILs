@@ -1,5 +1,6 @@
 
-# [[기출문제] 메이즈러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=1&pageSize=20)
+# [[Silver3] 메이즈러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=1&pageSize=20)
+`Simulation`
 
 ## 문제
 
