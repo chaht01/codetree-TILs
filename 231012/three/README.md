@@ -2,6 +2,8 @@
 # [[Silver3] 메이즈러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=1&pageSize=20)
 `Simulation`
 
+일반 연습 / 기출문제
+
 ## 문제
 
 변수 a, b에 각각 3, 'C'을 넣어주고, 출력 형식에 알맞게 출력하는 프로그램을 작성하세요.
