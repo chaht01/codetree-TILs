@@ -1,5 +1,7 @@
 # [변수 출력하기 2](https://www.codetree.ai/missions/4/problems/outputing-variables-2/submissions)
 
+Novice Low / 출력 / 출력 형식
+
 ## 문제
 
 변수 a, b에 각각 3, 'C'을 넣어주고, 출력 형식에 알맞게 출력하는 프로그램을 작성하세요.
