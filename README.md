@@ -11,6 +11,11 @@
 ||[`출력 / 출력 형식`](https://codetree.ai)|[`출력 / 출력 형식`](https://codetree.ai)|[`출력 / 출력 형식`](https://codetree.ai)|
 
 
+## 🥇 실전훈련
+최근 해결한 문제 티어(최대 100개 표시)
+
+![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%23394960.svg)
+
 <details open>
   <summary><h3>10월 (4)</h3></summary>
   
