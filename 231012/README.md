@@ -29,7 +29,7 @@
 |---:|---|---:|---|---|
 |4|2(50%)|20xp|`삼성 / 시뮬레이션 / dx dy technique`|23일째🔥|
 
-|교재|이름|난이도|경험치|상태(최근제출)|
+|교재|이름|난이도|경험치|상태(당일기준)|
 |---|---|:---:|---|---|
 |[삼성](https://www.codetree.ai/cote/home?missionId=13) / 시뮬레이션 / dx dy technique|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움](https://img.shields.io/badge/쉬움-%235cb85c.svg?for-the-badge)|10xp|[![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
 |[삼성](https://www.codetree.ai/cote/home?missionId=13) / 시뮬레이션 / dx dy technique|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움](https://img.shields.io/badge/쉬움-%235cb85c.svg?for-the-badge)|10xp|[![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
