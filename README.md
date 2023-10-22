@@ -113,15 +113,57 @@
 </table>
 
 ## 태그별 (해결함)
-|유형|문항|
-|---|---|
-|[`DP`](https://codetree.ai)|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|
-|[`Sort`](https://codetree.ai)|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        
+[`DP`](https://codetree.ai)
+      </td>
+      <td align="center">
+[`Sort`](https://codetree.ai)
+      </td>
+    </tr>
+    <tr>
+      <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+      <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 티어별 (해결함, 실전 훈련 문제만 표시됩니다)
-![Bronze](https://img.shields.io/badge/Bronze-%235D3E31.svg)|![Silver](https://img.shields.io/badge/Silver-%23394960.svg)|![Gold](https://img.shields.io/badge/Gold-%23FFC433.svg)|![Platinum](https://img.shields.io/badge/Platinum-%2376DDD8.svg)|
-|---|---|---|---|
-|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|
+
+<table>
+  <tbody>
+    <tr>
+      <td width="300px" align="center">
+        
+![Bronze](https://img.shields.io/badge/Bronze-%235D3E31.svg)
+      </td>
+      <td width="300px" align="center">
+![Silver](https://img.shields.io/badge/Silver-%23394960.svg)
+      </td>
+      <td width="300px" align="center">
+![Gold](https://img.shields.io/badge/Gold-%23FFC433.svg)
+      </td>
+      <td width="300px" align="center">
+![Platinum](https://img.shields.io/badge/Platinum-%2376DDD8.svg)
+      </td>
+    </tr>
+    <tr>
+      <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+      <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+      <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+    <td>
+[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)<br/>[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
