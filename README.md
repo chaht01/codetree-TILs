@@ -5,8 +5,8 @@
 <table>
   <thead>
     <tr>
-      <th width="500px">단계별 학습</th>
-      <th width="500px">기업별 학습</th>
+      <th width="450px">단계별 학습</th>
+      <th width="450px">기업별 학습</th>
     </tr>
   </thead>
   <tbody>
@@ -15,7 +15,7 @@
         <table>
   <thead>
     <tr>
-      <th width="200px">교재</th>
+      <th width="180px">교재</th>
       <th width="200px">완주율</th>
     </tr>
   </thead>
@@ -44,7 +44,7 @@
         <table>
   <thead>
     <tr>
-      <th width="200px">교재</th>
+      <th width="180px">교재</th>
       <th width="200px">완주율</th>
     </tr>
   </thead>
