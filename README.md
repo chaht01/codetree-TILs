@@ -11,14 +11,14 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <table>
-  <thead>
+<!--   <thead>
     <tr>
       <th width="180px">교재</th>
       <th width="200px">완주율</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
   <tr>
     <td>Novice Low</th>
@@ -40,14 +40,14 @@
   </tbody>
 </table>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <table>
-  <thead>
+<!--   <thead>
     <tr>
       <th width="180px">교재</th>
       <th width="200px">완주율</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
   <tr>
     <td>Samsung</th>
