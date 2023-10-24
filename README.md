@@ -9,9 +9,9 @@
    3. [티어별 (해결함, 실전 훈련 문제만 표시됩니다)](#티어별-(해결함,-실전-훈련-문제만-표시됩니다))
 3. [로그](#로그)
 
-# 학습 요약
+## 학습 요약
 
-## 커리큘럼 학습
+### 커리큘럼 학습
 
 <table>
   <thead>
@@ -80,12 +80,12 @@
 </table>
 
 
-## 실전훈련
-### 최근 해결한 문제 티어(최대 100개 표시)
+### 실전훈련
+#### 최근 해결한 문제 티어(최대 100개 표시)
 
 ![Platinum 1](https://img.shields.io/badge/Platinum_1-%2376DDD8.svg) ![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%235D3E31.svg) ![Platinum 1](https://img.shields.io/badge/Platinum_1-%2376DDD8.svg) ![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%235D3E31.svg) ![Platinum 1](https://img.shields.io/badge/Platinum_1-%2376DDD8.svg) ![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%235D3E31.svg) ![Platinum 1](https://img.shields.io/badge/Platinum_1-%2376DDD8.svg) ![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%235D3E31.svg) ![Platinum 1](https://img.shields.io/badge/Platinum_1-%2376DDD8.svg) ![Gold 1](https://img.shields.io/badge/Gold_1-%23FFC433.svg) ![Silver 1](https://img.shields.io/badge/Silver_1-%23394960.svg) ![Bronze 1](https://img.shields.io/badge/Bronze_1-%235D3E31.svg)
 
-### 릴레이 
+#### 릴레이 
 
 ![현재](https://img.shields.io/badge/현재_릴레이-3-%235cb85c.svg?for-the-badge)
 ![최장](https://img.shields.io/badge/최장_릴레이-10-%23E34F26.svg?for-the-badge)
@@ -99,9 +99,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# 빠른 색인
+## 빠른 색인
 
-## 상태별
+### 상태별
 <table>
   <thead>
     <tr>
@@ -123,7 +123,7 @@
   </tbody>
 </table>
 
-## 태그별 (해결함)
+### 태그별 (해결함)
 <table>
   <tbody>
     <tr>
@@ -144,7 +144,7 @@
   </tbody>
 </table>
 
-## 티어별 (해결함, 실전 훈련 문제만 표시됩니다)
+### 티어별 (해결함, 실전 훈련 문제만 표시됩니다)
 
 <table>
   <tbody>
@@ -179,7 +179,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# 로그
+## 로그
 
 <details open>
   <summary><h3>10월 (4)</h3></summary>
