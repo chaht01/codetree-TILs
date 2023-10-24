@@ -46,6 +46,7 @@
 |---|---|---|---|---|---|
 |타이머|[2022 크리스마스 코딩 퀴즈](https://www.codetree.ai/training-field/mock-tests)|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|실버5|`Exhaustive Search` `Min&Max`|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|
 |일반연습|문제은행|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|실버1|`Simulation`|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|
+|릴레이|추천|[차이가 1인 수](https://www.codetree.ai/problems/number-with-difference-1/description)|실버1|`DP`|![Passed](https://img.shields.io/badge/Passed-%23009D27.svg)|
 
 
 ## ⏰ 타이머 기록
