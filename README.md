@@ -5,9 +5,9 @@
    2. [실전 훈련](https://github.com/chaht01/codetree-TILs/blob/main/summary.md#%EC%8B%A4%EC%A0%84%ED%9B%88%EB%A0%A8)
 2. 빠른 색인
    1. [상태별](https://github.com/chaht01/codetree-TILs/blob/main/index-progress.md)
-   2. [태그별 (해결함)]((https://github.com/chaht01/codetree-TILs/blob/main/index-tag.md))
-   3. [티어별 (해결함, 실전 훈련 문제만 표시됩니다)]((https://github.com/chaht01/codetree-TILs/blob/main/index-tier.md)))
-3. [로그]((https://github.com/chaht01/codetree-TILs/blob/main/log.md))
+   2. [태그별 (해결함)](https://github.com/chaht01/codetree-TILs/blob/main/index-tag.md)
+   3. [티어별 (해결함, 실전 훈련 문제만 표시됩니다)](https://github.com/chaht01/codetree-TILs/blob/main/index-tier.md))
+3. [로그](https://github.com/chaht01/codetree-TILs/blob/main/log.md)
 
 ## 1. 학습 요약
 
