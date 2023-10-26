@@ -1,0 +1,68 @@
+# 빠른 색인 (티어별, 🟢, 실전 훈련 문제만 표시됩니다) - (업데이트 2023. 10. 24)
+
+<table>
+  <tbody>
+    <tr>
+      <td width="300px" align="center">
+        <a href="https://www.codetree.ai/training-field/search?page=1&pageSize=20&tier=1%2C5"><img src="https://img.shields.io/badge/Bronze-%235D3E31.svg"/></a>
+      </td>
+      <td width="300px" align="center">
+      <a href="https://www.codetree.ai/training-field/search?page=1&pageSize=20&tier=6%2C10"><img src="https://img.shields.io/badge/Silver-%23394960.svg"/></a>
+      </td>
+      <td width="300px" align="center">
+      <a href="https://www.codetree.ai/training-field/search?page=1&pageSize=20&tier=11%2C15"><img src="https://img.shields.io/badge/Gold-%23FFC433.svg"/></a>
+      </td>
+      <td width="300px" align="center">
+      <a href="https://www.codetree.ai/training-field/search?page=1&pageSize=20&tier=16%2C20"><img src="https://img.shields.io/badge/Platinum-%2376DDD8.svg"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+      <td>
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+      <td>
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+    <td>
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)
+* [연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+[b5]: https://img.shields.io/badge/Bronze_5-%235D3E31.svg
+[b4]: https://img.shields.io/badge/Bronze_4-%235D3E31.svg
+[b3]: https://img.shields.io/badge/Bronze_3-%235D3E31.svg
+[b2]: https://img.shields.io/badge/Bronze_2-%235D3E31.svg
+[b1]: https://img.shields.io/badge/Bronze_1-%235D3E31.svg
+[s5]: https://img.shields.io/badge/Silver_5-%23394960.svg
+[s4]: https://img.shields.io/badge/Silver_4-%23394960.svg
+[s3]: https://img.shields.io/badge/Silver_3-%23394960.svg
+[s2]: https://img.shields.io/badge/Silver_2-%23394960.svg
+[s1]: https://img.shields.io/badge/Silver_1-%23394960.svg
+[g5]: https://img.shields.io/badge/Gold_5-%23FFC433.svg
+[g4]: https://img.shields.io/badge/Gold_4-%23FFC433.svg
+[g3]: https://img.shields.io/badge/Gold_3-%23FFC433.svg
+[g2]: https://img.shields.io/badge/Gold_2-%23FFC433.svg
+[g1]: https://img.shields.io/badge/Gold_1-%23FFC433.svg
+[p5]: https://img.shields.io/badge/Platinum_5-%2376DDD8.svg
+[p4]: https://img.shields.io/badge/Platinum_4-%2376DDD8.svg
+[p3]: https://img.shields.io/badge/Platinum_3-%2376DDD8.svg
+[p2]: https://img.shields.io/badge/Platinum_2-%2376DDD8.svg
+[p1]: https://img.shields.io/badge/Platinum_1-%2376DDD8.svg
+[passed]: https://img.shields.io/badge/Passed-%23009D27.svg
+[failed]: https://img.shields.io/badge/Failed-%23D24D57.svg
+[easy]: https://img.shields.io/badge/쉬움-%235cb85c.svg?for-the-badge
+[medium]: https://img.shields.io/badge/보통-%23FFC433.svg?for-the-badge
+[hard]: https://img.shields.io/badge/어려움-%23D24D57.svg?for-the-badge
+[goal]: https://img.shields.io/badge/목표달성-8A2BE2
