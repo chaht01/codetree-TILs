@@ -7,13 +7,13 @@
 ![20xp](https://img.shields.io/badge/EXP-20xp-%235cb85c.svg?for-the-badge)
 ![23일째](https://img.shields.io/badge/연속학습-23일째-%23E34F26.svg?for-the-badge)
 
-|총 문제수|정답|획득 경험치|학습한 유형|연속 학습|
-|---:|---|---:|---|---|
-|4|2(50%)|20xp|`Novice Low / 출력 / 출력 형식`<br/>`Novice Low / 출력 / 출력 형식`|23일째🔥|
+|총 문제수|획득 경험치|학습한 유형|연속 학습|
+|---:|---:|---|---|
+|4|20xp|`Novice Low / 출력 / 출력 형식`<br/>`Novice Low / 출력 / 출력 형식`|23일째🔥|
 
-|교재|이름|난이도|경험치|상태(최근제출)|
+|교재|이름|난이도|경험치|제출코드|
 |---|---|:---:|---|---|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|10xp|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|10xp|[링크](./five/five.py)|
 |[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|10xp|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
 |[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|10xp|[![Failed][failed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
 |[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움][easy]|10xp|[![Failed][failed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
