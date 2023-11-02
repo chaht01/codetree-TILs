@@ -1,2 +1,3 @@
-a = b = 5.26
-print(a)
+a = 5.26
+b = 8.27
+print(a*b)
