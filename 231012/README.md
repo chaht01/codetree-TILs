@@ -11,12 +11,12 @@
 |---:|---:|---|
 |4|20xp|23일째🔥|
 
-|교재|이름|난이도|최근 제출 코드|
-|---|---|:---:|:---:|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
+|교재|이름|난이도|상태|최근 제출 코드|
+|---|---|:---:|:---:|:---:|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|[링크](./five/five.py)|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|[링크](./five/five.py)|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|[링크](./five/five.py)|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|[링크](./five/five.py)|
 
 * 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
 * 연속 학습:fire:: 경험치를 획득한 날을 학습한 날로 인정합니다.
@@ -44,15 +44,15 @@
 |---:|---|
 |7|`Exhaustive Search` `Min&Max` `Simulation`|
 
-|기록분류|이름|티어|유형|최근 제출 코드|
-|---|---|---|---|---|
-|타이머|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|타이머|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|타이머|[메리 크리스마스](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 5][b5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|일반연습|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|![Silver 1][s1]|`Simulation`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|릴레이|[차이가 1인 수](https://www.codetree.ai/problems/number-with-difference-1/description)|![Gold 1][g1]  |`DP`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|릴레이|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
-|릴레이|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Failed][failed]]([231012/five/five.py](./five/five.py))|
+|기록분류|이름|티어|유형|상태|최근 제출 코드|
+|---|---|---|---|---|---|
+|타이머|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|타이머|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|타이머|[메리 크리스마스](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 5][b5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|일반연습|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|![Silver 1][s1]|`Simulation`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|릴레이|[차이가 1인 수](https://www.codetree.ai/problems/number-with-difference-1/description)|![Gold 1][g1]  |`DP`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|릴레이|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
+|릴레이|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Failed][failed]]([231012/five/five.py](./five/five.py))|[링크](./five/five.py)|
 
 
 ## 🏃 릴레이 기록
