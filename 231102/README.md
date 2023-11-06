@@ -8,11 +8,11 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|0xp|0일째🔥|
+1|0xp|0일째 ❄️|
 
-|교재|이름|난이도|경험치|제출코드|
-|---|---|:---:|---|---|
-|[Novice Low / 출력 / 소수점 맞춰 출력](https://www.codetree.ai/missions?missionId=4)|[두 실수의 곱](https://www.codetree.ai/missions/4/problems/the-product-of-two-real-numbers)|![쉬움][easy]|10xp|[링크](https://github.com/chaht01/codetree-TILs/231102/the-product-of-two-real-numbers/the-product-of-two-real-numbers.py)|
+|교재|이름|난이도|제출코드|
+|---|---|:---:|---|
+|[Novice Low / 출력 / 소수점 맞춰 출력](https://www.codetree.ai/missions?missionId=4)|[두 실수의 곱](https://www.codetree.ai/missions/4/problems/the-product-of-two-real-numbers)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/231102/the-product-of-two-real-numbers/the-product-of-two-real-numbers.py))|
 
 * 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
 * 연속 학습🔥: 경험치를 획득한 날을 학습한 날로 인정합니다. 
