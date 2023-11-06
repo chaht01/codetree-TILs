@@ -1,6 +1,6 @@
 # [두 실수의 곱 ](https://www.codetree.ai/missions/4/problems/the-product-of-two-real-numbers)
 
-|유형|경험치|난이도|
+|유형|문제 경험치|난이도|
 |---|---|---|
 |[Novice Low / 출력 / 소수점 맞춰 출력](https://www.codetree.ai/missions?missionId=4)|10xp|![쉬움][easy]|
 
