@@ -38,19 +38,19 @@
 
 
 # 🥇 실전훈련
-|총 문제수|티어|유형|
-|---:|---|---|
-|7|![Silver 5][s5] ~ ![Gold 1][g1] |`Exhaustive Search` `Min&Max` `Simulation`|
+|총 문제수|유형|
+|---:|---|
+|7|`Exhaustive Search` `Min&Max` `Simulation`|
 
-|기록분류|이름|티어|유형|상태(최근제출)|
+|기록분류|이름|티어|유형|최근 제출 코드|
 |---|---|---|---|---|
-|타이머|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[링크](./five/five.py)|
-|타이머|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[링크](./five/five.py)|
-|타이머|[메리 크리스마스](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 5][b5] |`Exhaustive Search` `Min&Max`|[링크](./five/five.py)|
-|일반연습|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|![Silver 1][s1]|`Simulation`|[링크](./five/five.py)|
-|릴레이|[차이가 1인 수](https://www.codetree.ai/problems/number-with-difference-1/description)|![Gold 1][g1]  |`DP`|[링크](./five/five.py)|
-|릴레이|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[링크](./five/five.py)|
-|릴레이|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[링크](./five/five.py)|
+|타이머|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|타이머|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|타이머|[메리 크리스마스](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 5][b5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|일반연습|[벽 짚고 미로 탈출하기](https://www.codetree.ai/problems/escape-maze-with-wall-following/description)|![Silver 1][s1]|`Simulation`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|릴레이|[차이가 1인 수](https://www.codetree.ai/problems/number-with-difference-1/description)|![Gold 1][g1]  |`DP`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|릴레이|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5] |`Exhaustive Search` `Min&Max`|[![Passed][passed]]([231012/five/five.py](./five/five.py))|
+|릴레이|[연탄 배달의 시작](https://www.codetree.ai/problems/size-of-briquette/description)|![Bronze 2][b2] |`Exhaustive Search` `Min&Max`|[![Failed][failed]]([231012/five/five.py](./five/five.py))|
 
 
 ## 🏃 릴레이 기록
@@ -66,16 +66,16 @@
 
 ## ⏰ 타이머 기록
 ### [2022 크리스마스 코딩 퀴즈](https://www.codetree.ai/training-field/mock-tests) [(기록 바로가기)](https://www.codetree.ai/training-field/my-records/timer/2707)
-|문제|티어|상태|랩타임|
-|---|---|---|---|
-|[메리 크리스마스](https://www.codetree.ai/problems/happy-xmas/description)|![Bronze 5][b5] |![Passed][passed]|00:00:29|
-|[연탄 배달의 시작](https://www.codetree.ai/problems/the-beginning-of-briquette-delivery/description)|![Bronze 2][b2] |[![Failed][failed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))||
-|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5]|![Passed][passed]|00:01:26|
-|[루돌프 월드컵](https://www.codetree.ai/problems/rudolph-worldcup/description)|![Silver 1][s1]|||
-|[산타의 텔레포트](https://www.codetree.ai/problems/santa-teleport/description)|![Gold 2][g2]|||
-|[더블! 산타 외판원 순회](https://www.codetree.ai/problems/double-traveling-santa-problem/description)|![Gold 1][g1]|||
-|[선물 나눠주기(Easy)](https://www.codetree.ai/problems/give-present-easy/description)|![Platinum 5][p5]|||
-|[선물 나눠주기(Hard)](https://www.codetree.ai/problems/give-present-hard/description)|![Platinum 1][p1]|||
+|문제|티어|상태|랩타임|최근 제출 코드|
+|---|---|---|---|---|
+|[메리 크리스마스](https://www.codetree.ai/problems/happy-xmas/description)|![Bronze 5][b5] |![Passed][passed]|00:00:29|[링크](./five/five.py)|
+|[연탄 배달의 시작](https://www.codetree.ai/problems/the-beginning-of-briquette-delivery/description)|![Bronze 2][b2] |[![Failed][failed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))||[링크](./five/five.py)|
+|[연탄의 크기](https://www.codetree.ai/problems/size-of-briquette/description)|![Silver 5][s5]|![Passed][passed]|00:01:26|[링크](./five/five.py)|
+|[루돌프 월드컵](https://www.codetree.ai/problems/rudolph-worldcup/description)|![Silver 1][s1]||||
+|[산타의 텔레포트](https://www.codetree.ai/problems/santa-teleport/description)|![Gold 2][g2]||||
+|[더블! 산타 외판원 순회](https://www.codetree.ai/problems/double-traveling-santa-problem/description)|![Gold 1][g1]||||
+|[선물 나눠주기(Easy)](https://www.codetree.ai/problems/give-present-easy/description)|![Platinum 5][p5]||||
+|[선물 나눠주기(Hard)](https://www.codetree.ai/problems/give-present-hard/description)|![Platinum 1][p1]||||
 
 
 
