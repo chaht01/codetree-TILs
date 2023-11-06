@@ -11,13 +11,15 @@
 |---:|---:|---|
 |4|20xp|23일째🔥|
 
-|교재|이름|난이도|경험치|제출코드|
-|---|---|:---:|---|---|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|10xp|[링크](./five/five.py)|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|10xp|[링크](./five/five.py)|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|10xp|[링크](./five/five.py)|
-|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움][easy]|10xp|[링크](./five/five.py)|
+|교재|이름|난이도|최근 제출 코드|
+|---|---|:---:|:---:|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[개념] 세 정수형 변수 선언](https://www.codetree.ai/missions/4/problems/declaration-of-three-natural-numbers/introduction)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[연습] 변수 출력하기2](https://www.codetree.ai/missions/4/problems/outputing-variables/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
+|[Novice Low](https://www.codetree.ai/missions?missionId=4) / 출력 / 출력 형식|[[테스트] 변수 출력하기3](https://www.codetree.ai/missions/4/problems/outputing-variables-3/description)|![쉬움][easy]|[![Passed][passed]]([231012/five/five.py](https://github.com/chaht01/codetree-TILs/blob/ab41844ad9143e037bc6791ed7e23be29f3f6319/231012/five/five.py))|
 
+* 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
+* 연속 학습:fire:: 경험치를 획득한 날을 학습한 날로 인정합니다.
 
 ## 🚀 기업별 학습
 ### 23년 10월 12일 목표(20px)를 달성했어요 🥳.
